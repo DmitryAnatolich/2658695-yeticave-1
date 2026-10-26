@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [Дмитрий Трясак](https://up.htmlacademy.ru/php-individual/1/user/2658695).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Анатольев](https://htmlacademy.ru/profile/anatolev-max).
 
 ---
 
